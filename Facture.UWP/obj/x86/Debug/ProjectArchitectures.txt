@@ -1,0 +1,1 @@
+D:\3emeDSI\CROSSPLATFORM ( W.Bannour)\Facture\Facture.UWP\Facture.UWP.csproj;x86

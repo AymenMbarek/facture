@@ -1,0 +1,15 @@
+D:\3emeDSI\CROSSPLATFORM ( W.Bannour)\Facture\Facture\bin\Debug\netstandard2.0\Facture.deps.json
+D:\3emeDSI\CROSSPLATFORM ( W.Bannour)\Facture\Facture\bin\Debug\netstandard2.0\Facture.dll
+D:\3emeDSI\CROSSPLATFORM ( W.Bannour)\Facture\Facture\bin\Debug\netstandard2.0\ref\Facture.dll
+D:\3emeDSI\CROSSPLATFORM ( W.Bannour)\Facture\Facture\bin\Debug\netstandard2.0\Facture.pdb
+D:\3emeDSI\CROSSPLATFORM ( W.Bannour)\Facture\Facture\obj\Debug\netstandard2.0\Facture.csproj.AssemblyReference.cache
+D:\3emeDSI\CROSSPLATFORM ( W.Bannour)\Facture\Facture\obj\Debug\netstandard2.0\Facture.GeneratedMSBuildEditorConfig.editorconfig
+D:\3emeDSI\CROSSPLATFORM ( W.Bannour)\Facture\Facture\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\3emeDSI\CROSSPLATFORM ( W.Bannour)\Facture\Facture\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\3emeDSI\CROSSPLATFORM ( W.Bannour)\Facture\Facture\obj\Debug\netstandard2.0\Facture.AssemblyInfoInputs.cache
+D:\3emeDSI\CROSSPLATFORM ( W.Bannour)\Facture\Facture\obj\Debug\netstandard2.0\Facture.AssemblyInfo.cs
+D:\3emeDSI\CROSSPLATFORM ( W.Bannour)\Facture\Facture\obj\Debug\netstandard2.0\Facture.csproj.CoreCompileInputs.cache
+D:\3emeDSI\CROSSPLATFORM ( W.Bannour)\Facture\Facture\obj\Debug\netstandard2.0\XamlC.stamp
+D:\3emeDSI\CROSSPLATFORM ( W.Bannour)\Facture\Facture\obj\Debug\netstandard2.0\Facture.dll
+D:\3emeDSI\CROSSPLATFORM ( W.Bannour)\Facture\Facture\obj\Debug\netstandard2.0\ref\Facture.dll
+D:\3emeDSI\CROSSPLATFORM ( W.Bannour)\Facture\Facture\obj\Debug\netstandard2.0\Facture.pdb
